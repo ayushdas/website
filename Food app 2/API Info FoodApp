@@ -1,0 +1,18 @@
+GET
+Get Recipe Information
+
+GET
+Search Recipes (by ingredients & Cuisine) implemented
+
+GET
+Search Recipes by Nutrients
+
+GET
+Get Similar Recipes (by ID)
+
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+
+
+
